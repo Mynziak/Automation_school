@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="First use TestNG Test">
+    <test name="Test NG example>">
+        <classes>
+            <class name="test_ng_lesson.TestNgTest">
+            </class>
+        </classes>
+    </test>
+</suite>

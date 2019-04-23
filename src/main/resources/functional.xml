@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG example Suite">
+
+    <test name="Functional Testing example">
+        <classes>
+            <class name="AnnotationsExampleTest" />
+        </classes>
+    </test>
+
+</suite>
